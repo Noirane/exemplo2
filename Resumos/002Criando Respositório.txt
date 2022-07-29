@@ -11,3 +11,6 @@ git commit -m Versao001
 Cria repositório no site do github . Sua página inicial do github >> Repositories >> New (botão em verde )>> No “repository name” colocar : Exemplo2 >> Create repository  >> Copiar Link: https://github.com...
 git remote add origin (cola link do repositório através da tecla insert)
 git push origin master
+
+Editar remote $ git remote rm origin
+
